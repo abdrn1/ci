@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'DroidKufiRegular';
+    font-style: normal;
+    src: url(DroidKufiRegular.ttf);
+}
+
+
+
+.inline-inputs {
+    display: inline;
+    width: 40%;
+}
+
+
+@font-face {
+    font-family: 'Droid Arabic Naskh';
+    font-style: normal;
+    font-weight: 700;
+    src: url(DroidNaskh-Bold.eot);
+    src: url(DroidNaskh-Bold.ttf) format('truetype');
+}
+
+
+
+body {
+    /*font-family: 'DroidKufiRegular';*/
+    font-family: 'Droid Arabic Naskh';
+    font-size: 12px;
+}
